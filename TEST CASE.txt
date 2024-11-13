@@ -7,5 +7,8 @@ https://docs.google.com/spreadsheets/d/1aFtxTVqE54MOytwHaHB9ccfycQlfUFb-H-HcOOEn
 LUMA:
 https://docs.google.com/spreadsheets/d/11sriMqZ0mbHQmsF8EmbIJBiTRQiJkVWI_DpDQ0mxXW0/edit?gid=1639961948#gid=1639961948
 
+LOGIN OTP TOKOPEDIA:
+https://docs.google.com/spreadsheets/d/1xe1mH08vuQ0TJB2PmNnm2FdGjXnUm2qyRc8qVxC0LGg/edit?gid=2064546884#gid=2064546884
+
 MANUAL API TESTING (Reqres.in):
 https://docs.google.com/spreadsheets/d/1yGohuGJ082SdNClfDf2nBSR2C2SlABeQq80f4ZOHagw/edit?gid=1892803085#gid=1892803085
