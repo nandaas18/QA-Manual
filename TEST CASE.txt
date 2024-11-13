@@ -1,0 +1,11 @@
+SAUCE DEMO FULL TEST CASE:
+https://docs.google.com/spreadsheets/d/1d3XmpbSiPzN7nGNBqxQB98F657Q1FUATBwD8O-tvnWo/edit?usp=sharing
+
+DELIVERIT:
+https://docs.google.com/spreadsheets/d/1aFtxTVqE54MOytwHaHB9ccfycQlfUFb-H-HcOOEn0qs/edit?gid=1447714716#gid=1447714716
+
+LUMA:
+https://docs.google.com/spreadsheets/d/11sriMqZ0mbHQmsF8EmbIJBiTRQiJkVWI_DpDQ0mxXW0/edit?gid=1639961948#gid=1639961948
+
+MANUAL API TESTING (Reqres.in):
+https://docs.google.com/spreadsheets/d/1yGohuGJ082SdNClfDf2nBSR2C2SlABeQq80f4ZOHagw/edit?gid=1892803085#gid=1892803085
